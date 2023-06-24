@@ -5,5 +5,4 @@ Original Creator **`AbstractPoo`** / [V3rmillion Profile](https://v3rmillion.net
 
 Original Thread / [V3rmillion Thread](https://v3rmillion.net/showthread.php?tid=1103007)
 ## Ui Preview
-![a](https://cdn.discordapp.com/attachments/985550775306555452/1122168032727416934/image.png)
-
+![a](https://cdn.discordapp.com/attachments/985550775306555452/1122175608600924281/image.png)
