@@ -39,7 +39,7 @@ local Themes = {
 		BoxClick = Color3.fromRGB(50, 50, 50),
 		BoxPlaceholder = Color3.fromRGB(225, 225, 225)
 	},
-	Jester = {
+	Red = {
     Main = Color3.fromRGB(130, 30, 30),
     TabsBackground = Color3.fromRGB(122, 22, 22),
     ScrollBar = Color3.fromRGB(250, 150, 150),
