@@ -83,9 +83,9 @@ local Themes = {
     ScrollBar = Color3.fromRGB(54, 57, 63),
     QuitText = Color3.fromRGB(225, 225, 225),
 
-    TabDefault = Color3.fromRGB(225, 125, 125),
-    TabHovered = Color3.fromRGB(240, 190, 190),
-    TabSelected = Color3.fromRGB(355, 255, 255),
+    TabDefault = Color3.fromRGB(125, 125, 125),
+    TabHovered = Color3.fromRGB(190, 190, 190),
+    TabSelected = Color3.fromRGB(255, 255, 255),
 
     DividerBackground = Color3.fromRGB(64, 67, 73),
     DividerText = Color3.fromRGB(255, 255, 255),
@@ -94,7 +94,7 @@ local Themes = {
     OptionHover = Color3.fromRGB(71, 82, 196),
     OptionClick = Color3.fromRGB(75, 86, 203),
     OptionText = Color3.fromRGB(255, 255, 255),
-    OptionDescription = Color3.fromRGB(245, 205, 205),
+    OptionDescription = Color3.fromRGB(205, 205, 205),
     OptionImage = Color3.fromRGB(255, 255, 255),
 
     ToggleTrue = Color3.fromRGB(22, 168, 76),
