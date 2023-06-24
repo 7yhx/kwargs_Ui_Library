@@ -103,7 +103,7 @@ local Themes = {
 
     DropdownOptionsBackground = Color3.fromRGB(47,49,54),
     DropdownScrollbar = Color3.fromRGB(54, 57, 63),
-    DropdownOption = Color3.fromRGB(150, 50, 50),
+    DropdownOption = Color3.fromRGB(88, 101, 242),
     DropdownText = Color3.fromRGB(255, 255, 255),
     DropdownOptionHover = Color3.fromRGB(71, 82, 196),
     DropdownOptionClick = Color3.fromRGB(75, 86, 203),
