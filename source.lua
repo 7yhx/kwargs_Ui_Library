@@ -78,39 +78,39 @@ local Themes = {
     BoxPlaceholder = Color3.fromRGB(245, 225, 225)
 },
 	Discord = {
-    Main = Color3.fromRGB(54,57,63),
-    TabsBackground = Color3.fromRGB(47,49,54),
-    ScrollBar = Color3.fromRGB(54,57,63),
+    Main = Color3.fromRGB(54, 57, 63),
+    TabsBackground = Color3.fromRGB(47, 49, 54),
+    ScrollBar = Color3.fromRGB(54, 57, 63),
     QuitText = Color3.fromRGB(225, 225, 225),
 
     TabDefault = Color3.fromRGB(225, 125, 125),
     TabHovered = Color3.fromRGB(240, 190, 190),
     TabSelected = Color3.fromRGB(355, 255, 255),
 
-    DividerBackground = Color3.fromRGB(47,49,54),
+    DividerBackground = Color3.fromRGB(64, 67, 73),
     DividerText = Color3.fromRGB(255, 255, 255),
 
-    OptionBackground = Color3.fromRGB(88,101,242),
-    OptionHover = Color3.fromRGB(71,82,196),
-    OptionClick = Color3.fromRGB(75,86,203),
+    OptionBackground = Color3.fromRGB(88, 101, 242),
+    OptionHover = Color3.fromRGB(71, 82, 196),
+    OptionClick = Color3.fromRGB(75, 86, 203),
     OptionText = Color3.fromRGB(255, 255, 255),
     OptionDescription = Color3.fromRGB(245, 205, 205),
     OptionImage = Color3.fromRGB(255, 255, 255),
 
     ToggleTrue = Color3.fromRGB(22, 168, 76),
-    ToggleFalse = Color3.fromRGB(47,49,54),
+    ToggleFalse = Color3.fromRGB(47, 49, 54),
     ToggleIndicator = Color3.fromRGB(255, 255, 255),
 
     DropdownOptionsBackground = Color3.fromRGB(47,49,54),
-    DropdownScrollbar = Color3.fromRGB(54,57,63),
+    DropdownScrollbar = Color3.fromRGB(54, 57, 63),
     DropdownOption = Color3.fromRGB(150, 50, 50),
     DropdownText = Color3.fromRGB(255, 255, 255),
-    DropdownOptionHover = Color3.fromRGB(71,82,196),
-    DropdownOptionClick = Color3.fromRGB(75,86,203),
+    DropdownOptionHover = Color3.fromRGB(71, 82, 196),
+    DropdownOptionClick = Color3.fromRGB(75, 86, 203),
 
-    ColourPickerBackground = Color3.fromRGB(47,49,54),
+    ColourPickerBackground = Color3.fromRGB(47, 49, 54),
 
-    BoxOutline = Color3.fromRGB(88,101,242),
+    BoxOutline = Color3.fromRGB(88, 101, 242),
     BoxHover = Color3.fromRGB(175, 175, 175),
     BoxClick = Color3.fromRGB(225, 225, 225),
     BoxPlaceholder = Color3.fromRGB(225, 225, 225)
