@@ -110,7 +110,7 @@ local Themes = {
 
     ColourPickerBackground = Color3.fromRGB(47, 49, 54),
 
-    BoxOutline = Color3.fromRGB(88, 101, 242),
+    BoxOutline = Color3.fromRGB(225, 225, 225),
     BoxHover = Color3.fromRGB(175, 175, 175),
     BoxClick = Color3.fromRGB(225, 225, 225),
     BoxPlaceholder = Color3.fromRGB(225, 225, 225)
