@@ -39,6 +39,44 @@ local Themes = {
 		BoxClick = Color3.fromRGB(50, 50, 50),
 		BoxPlaceholder = Color3.fromRGB(225, 225, 225)
 	},
+	    Jester = {
+        Main = Color3.fromRGB(255, 255, 255), -- White
+        TabsBackground = Color3.fromRGB(54, 57, 63),
+        ScrollBar = Color3.fromRGB(50, 50, 50),
+        QuitText = Color3.fromRGB(220, 220, 220),
+
+        TabDefault = Color3.fromRGB(150, 150, 160),
+        TabHovered = Color3.fromRGB(50, 150, 170),
+        TabSelected = Color3.fromRGB(45, 190, 220),
+
+        DividerBackground = Color3.fromRGB(210, 210, 210),
+        DividerText = Color3.fromRGB(50, 50, 50),
+
+        OptionBackground = Color3.fromRGB(255, 255, 255),
+        OptionHover = Color3.fromRGB(240, 240, 240),
+        OptionClick = Color3.fromRGB(225, 225, 225),
+        OptionText = Color3.fromRGB(50, 50, 50),
+        OptionDescription = Color3.fromRGB(100, 100, 100),
+        OptionImage = Color3.fromRGB(50, 50, 50),
+
+        ToggleTrue = Color3.fromRGB(255, 100, 100), -- Red
+        ToggleFalse = Color3.fromRGB(205, 95, 95),
+        ToggleIndicator = Color3.fromRGB(50, 50, 50),
+
+        DropdownOptionsBackground = Color3.fromRGB(255, 255, 255),
+        DropdownScrollbar = Color3.fromRGB(200, 200, 200),
+        DropdownOption = Color3.fromRGB(255, 255, 255),
+        DropdownText = Color3.fromRGB(50, 50, 50),
+        DropdownOptionHover = Color3.fromRGB(240, 240, 240),
+        DropdownOptionClick = Color3.fromRGB(225, 225, 225),
+
+        ColourPickerBackground = Color3.fromRGB(255, 255, 255),
+
+        BoxOutline = Color3.fromRGB(150, 150, 150),
+        BoxHover = Color3.fromRGB(100, 100, 100),
+        BoxClick = Color3.fromRGB(50, 50, 50),
+        BoxPlaceholder = Color3.fromRGB(225, 225, 225)
+    },
 	Dark = {
 		Main = Color3.fromRGB(30, 30, 30),
 		TabsBackground = Color3.fromRGB(22, 22, 22),
