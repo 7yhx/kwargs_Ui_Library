@@ -87,7 +87,7 @@ local Themes = {
     TabHovered = Color3.fromRGB(240, 190, 190),
     TabSelected = Color3.fromRGB(355, 255, 255),
 
-    DividerBackground = Color3.fromRGB(140, 40, 40),
+    DividerBackground = Color3.fromRGB(47,49,54),
     DividerText = Color3.fromRGB(255, 255, 255),
 
     OptionBackground = Color3.fromRGB(88,101,242),
