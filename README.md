@@ -11,7 +11,7 @@ Original Thread / [V3rmillion Thread](https://v3rmillion.net/showthread.php?tid=
 kwargs UI Library is a clean UI thats easy to understand.
 
 I (aka. **`7yhx`**) work on this UI Library Abit By Adding THEMES!
-## Current Themes
+## Current Themes (4)
 Red / A Reddish UI, Pretty Bright
 
 
@@ -26,3 +26,9 @@ Light / A Light UI, Bright, My Least Fav
 
 
 ![a](https://github.com/7yhx/kwargs-Ui-Library/assets/96069186/ef019933-e5ab-40a3-9ea3-ac261a10922b)
+
+Discord / A Discord UI, Based Off Discord App
+
+
+![image](https://github.com/7yhx/kwargs-Ui-Library/assets/96069186/f493fd4f-63e1-4c57-a66d-58d305f0355b)
+
