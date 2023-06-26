@@ -1,5 +1,5 @@
 # kwargs UI Library 💜
-I put this UI Library on here because it's pretty much gone but i found this and here it is! 💜
+I put this UI Library on here because it's pretty much gone but i found this and here it is!
 
 Original Creator **`AbstractPoo`** / [V3rmillion Profile](https://v3rmillion.net/member.php?action=profile&uid=1055020)
 
