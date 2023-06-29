@@ -1,5 +1,5 @@
--- this si an example for the script, use this to amke your own! (Might be adding custom Themes)
-local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/7yhx/kwargs-Ui-Library/main/Ui%20Library.lua"))()
+-- this is an example for the script, use this to make your own! (Might be adding custom Themes)
+local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/7yhx/kwargs-Ui-Library/main/source.lua"))()
 
 local UI = Lib:Create{
    Theme = "Dark", -- or "Light"
